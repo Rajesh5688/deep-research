@@ -1,0 +1,2 @@
+Crop Layer in Caffe:
+https://groups.google.com/forum/#!topic/caffe-users/YSRYy7Nd9J8
